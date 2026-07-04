@@ -81,7 +81,7 @@ npm run dev
 
 
 📸 项目截图
-![Uploading 屏幕截图 2026-07-01 160057.png…]()
+![系统预览](https://gitee.com/hjwhjwR9/LiteCMS-Java-javaee-/raw/master/preview.png)
 
 
 🤝 贡献与联系
